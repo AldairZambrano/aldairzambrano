@@ -11773,7 +11773,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header .picture {
-  width: 220px;
+  width: 175.8px;
 }
 
 .resume-header .name {
@@ -11942,4 +11942,8 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
     width: 120px;
     border-radius: 4px;
   }
+}
+/*  */
+.height{
+  height: 16px;
 }
